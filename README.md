@@ -24,9 +24,6 @@
 
 - :star2:Android Frontend: The same backend services will also be accessed using an Android frontend application. Similarly, the Android frontend issues HTTP calls to call the backend.
 
-[Backend README](https://github.com/violetwei/Event-Registration-App/blob/master/EventRegistration-Backend/README.md)
-
-[Frontend README](https://github.com/violetwei/Event-Registration-App/tree/master/EventRegistration-Frontend/README.md)
+Contact email : fantasydev1225@gmail.com
 
 
-*Link to helpful [Tutorial](https://mcgill-ecse321-winter2019.github.io/EventRegistration-Tutorials/)*
